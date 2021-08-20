@@ -1,1 +1,1 @@
-# templete-rutina-del-astronauta
+# rutinaastronauta
